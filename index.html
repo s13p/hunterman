@@ -28,6 +28,21 @@
         }
      
 </style>
+<style>
+     @media screen and (min-width: 480px) {
+            .nangoz {
+                display: none;
+            }
+
+     }
+     @media screen and (max-width: 480px) {
+            .nangoz {
+                position: absolute;
+                height: 200px;
+            }
+        }
+
+</style>
     <!--google fonts-->
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&amp;family=Open+Sans:wght@400;600&amp;display=swap" rel="stylesheet">
 
@@ -57,15 +72,16 @@
         <!--header area start-->
         <!--header start-->
         <header class="main-header position-absolute w-100">
+            <img  src="./LOGO.png" height="100px"  alt="logo" class="nangoz">
             <nav style="max-height: 70px;" class="navbar navbar-expand-xl navbar-dark ">
                 <div class="container d-flex align-items-center justify-content-lg-between position-relative">
                     <a href="index.html" class="navbar-brand d-flex align-items-center mb-md-0 text-decoration-none">
-                        <img src="./LOGO.png" height="60px" alt="logo" class="img-fluid logo-white">
+                        
                         <img src="./LOGO.png" style="max-height: 240px !important; margin-bottom: -70px;" alt="logo" class="img-fluid logo-color">
                     </a>
 
                     <a class="navbar-toggler position-absolute right-0 border-0" href="index.html#offcanvasWithBackdrop" role="button">
-                        <span  data-bs-toggle="offcanvas" data-bs-target="#offcanvasWithBackdrop"
+                        <span style="margin-top: -7vh !important; top: 0;"  data-bs-toggle="offcanvas" data-bs-target="#offcanvasWithBackdrop"
                             aria-controls="offcanvasWithBackdrop">MENU</span>
                     </a>
                     <div class="collapse navbar-collapse justify-content-center">

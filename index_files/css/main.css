@@ -38762,7 +38762,9 @@ ul.np-author-list li+li {
 }
 
 .light-bg .logo-white {
-    display: none;
+   position: absolute;
+   left: 0;
+   top: 1;
 }
 
 .light-bg .footer-area {
