@@ -15,23 +15,54 @@ Join the DynaSnipe revolution today and experience the future of crypto trading.
 
 Phase 2
 
-Gorilla Marketing
-Launch Token
-List on CG
-List on CMC
+Gorilla Marketing <br>
+Launch Token <br>
+List on CG <br>
+List on CMC <br>
 Contract Audit
 
 Phase 3
-Tier 2 Exchange Listings
-First Staking Pool Release
+Tier 2 Exchange Listings <br>
+First Staking Pool Release 
 
 Phase 4
-Release a further 4 Staking Protocols
-Further Tier 2 Exchange Listings
-Apply For Tier 1 Exchange Listing
-10,000,000,000 supply 
-3/3 tax 
+Release a further 4 Staking Protocols <br>
+Further Tier 2 Exchange Listings <br>
+Apply For Tier 1 Exchange Listing 
+
+3/3 tax  <br>
 1.5% bot development. 
 1.5% marketing
 
 $DYNA
+
+
+
+
+
+
+
+
+
+V1 Website <br>
+Marketing Campaign <br>
+Set Up Socials 
+
+
+Mass Marketing Campaign <br>
+Launch on Uniswap <br>
+Apply for CoinGecko & CoinMarketCap <br>
+Audit
+
+Release of SniperBot <br>
+Release of Anti-Rug Detection Scanner <br>
+Release Anti-Honeypot Technical Scanner <br>
+Dextools Banner Adverts
+
+Upgrade Sniper Bot to work on all chains <br>
+Upgrade Scanners to cover all chains <br>
+Tier 2 Exchange Listings
+
+Introduce Telegram Adverts to our Bot & Scanners <br>
+Reward Holders From Revenue Generated <br>
+Develop an Alpha Scanner Tracking the Most Profitable Wallets
