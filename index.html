@@ -65,7 +65,7 @@
                     </a>
 
                     <a class="navbar-toggler position-absolute right-0 border-0" href="index.html#offcanvasWithBackdrop" role="button">
-                        <span class="fas fa-bars" data-bs-toggle="offcanvas" data-bs-target="#offcanvasWithBackdrop"
+                        <span  data-bs-toggle="offcanvas" data-bs-target="#offcanvasWithBackdrop"
                             aria-controls="offcanvasWithBackdrop">MENU</span>
                     </a>
                     <div class="collapse navbar-collapse justify-content-center">
@@ -182,7 +182,13 @@ background-attachment: fixed;
             <img src="index_files/images/np-hero-blur.png" alt="blur" class="position-absolute zindex--1 end-0 np-hero-blur">
         </section>
         <!--hero section end-->
-
+<style>
+      @media screen and (max-width: 480px) {
+        .np-welcome-area {
+            padding-bottom: 0 !important;
+        }
+      }
+</style>
         <!--welcome area start-->
         <section class="np-welcome-area ptb-120 overflow-hidden" id="about">
             <div class="container">
@@ -251,6 +257,7 @@ background-attachment: fixed;
      @media screen and (max-width: 480px) {
      .ma {
     margin-left:-50px ;
+    margin-top: -20vh;
   }
   .img-fluid {
     display: none;
